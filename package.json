@@ -1,0 +1,11 @@
+{
+  "name": "eslint-import-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "炒饭 <chaofan@2dfire.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "webpack": "^4.16.5"
+  }
+}
