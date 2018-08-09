@@ -1,3 +1,3 @@
-import utils from '@utils';
+import utils from '@utils/b';
 
 console.log('index', utils);

@@ -1,4 +1,8 @@
 {
+  "name": "storage",
   "main": "index.js",
-  "wxapp": "wx.js"
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC"
 }
